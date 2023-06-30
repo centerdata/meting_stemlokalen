@@ -1,2 +1,2 @@
-# meting_stemlokalen
+# Meting Stemlokalen
 Data-analyse van de Provinciale Staten- en waterschapsverkiezingen van 2023
