@@ -1,5 +1,5 @@
 # Meting Stemlokalen
-Dit project heeft als doel de stemlokalen van de Provinciale Staten- en waterschapsverkiezingen van 2023 te analyseren. Het wordt uitgevoerd door Centerdata in opdracht van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
+Dit project heeft als doel de stemlokalen van de Provinciale Staten- en waterschapsverkiezingen van 2023 te analyseren. Het is uitgevoerd door Centerdata in opdracht van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
 Tijdens de Provinciale Staten- en waterschapsverkiezingen op 15 maart 2023 hebben kiezers gestemd in stemlokalen verspreid door het land. Een stemlokaal is een locatie waar een of meer stembureaus zitting hebben zodat kiezers daar hun stem kunnen uitbrengen. 13,3 miljoen kiesgerechtigden konden hun stem uitbrengen in alle 342 gemeenten van Nederland. Het aantal stemlokalen, hun kenmerken, en welke verbanden ze vertonen met inkomen, woningwaarde, en de opkomst zijn geanalyseerd. De uitkomsten van de analyses zijn weergegeven op landelijk-, gemeentelijk-, en wijkniveau. Het eindrapport is te vinden op https://zoek.officielebekendmakingen.nl/
 
