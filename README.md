@@ -12,4 +12,4 @@ Python kan geïnstalleerd worden door [Anaconda](https://www.anaconda.com/) (gra
 De Python codes die zijn gebruikt om de analyses uit te voeren zijn te vinden onder **codes/**.
 
 # Data
-Het opgeschoonde databestand met de 8669 stemlokalen op basis van de Kiesraad data is te vinden in **data/**.
+Het opgeschoonde databestand met de 8669 stemlokalen op basis van de Kiesraad data is te vinden in **data/**. Bestandsnaam is "Stemlokalen_PS_WS_2023.xlsx".
