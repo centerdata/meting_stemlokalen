@@ -9,7 +9,7 @@ Alle codes en algoritmes die zijn gebouwd voor de datavoorbewerking en analyses 
 Python kan geïnstalleerd worden door [Anaconda](https://www.anaconda.com/) (gratis) te installeren. Dit is een grote installatie waarmee je ook Python installeert. De open source packages (hierboven) van Python kunnen geïnstalleerd worden via "pip install package-name" of via "conda install package-name" of via Anacoda Navigator.
 
 # Codes
-De Python codes die zijn gebruikt om de analyses uit te voeren zijn te vinden onder **codes/**.
+De Python codes die zijn gebruikt om de analyses en de visualisaties uit te voeren zijn te vinden onder **codes/**.
 
 # Data
 Het opgeschoonde databestand met de 8669 stemlokalen op basis van de Kiesraad data is te vinden in **data/**. Bestandsnaam is "Stemlokalen_PS_WS_2023.xlsx".
